@@ -17,4 +17,17 @@ var app = new EmberApp();
 // please specify an object with the list of modules as keys
 // along with the exports of each module as its value.
 
+// Loads CSS
+app.import('bower_components/bootstrap/dist/css/bootstrap.css');
+app.import('bower_components/jasny-bootstrap/dist/css/jasny-bootstrap.css');
+app.import('bower_components/jasny-bootstrap/dist/css/jasny-bootstrap.css.map');
+
+
+// Loads Fonts
+
+// Loads JS
+app.import('bower_components/bootstrap/dist/js/bootstrap.js');
+app.import('bower_components/jasny-bootstrap/dist/js/jasny-bootstrap.js');
+
+
 module.exports = app.toTree();
