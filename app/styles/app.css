@@ -19,3 +19,17 @@ body{
 a:hover {
     text-decoration: none;
 }
+
+a {
+	text-decoration: none;
+}
+
+.navbar-right {
+	float: right;
+}
+
+.footer{
+   position: fixed;
+   bottom: 30px;
+   right: 20px;
+}
