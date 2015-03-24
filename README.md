@@ -51,4 +51,11 @@ Specify what it takes to deploy your app.
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
 
-* Update Readme
+* TTD
+* design frontend
+* create routes
+* create templates
+* create links
+* create models
+* create controllers
+* create dynamic segments
